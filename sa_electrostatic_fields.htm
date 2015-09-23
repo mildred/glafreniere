@@ -1,11 +1,11 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML><HEAD>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en-us">
 <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
-<meta name="description" content="Explication de la matière et de tous les phénomènes physiques par des ondes stationnaires.">
-<meta name="keywords" content="matière, ondes stationnaires, Michelson, Lorentz, Relativité, gravité, électron, quark, gluon, atome, lumière, champ magnétique">
+<meta name="description" content="Explication de la matiÃ¨re et de tous les phÃ©nomÃ¨nes physiques par des ondes stationnaires.">
+<meta name="keywords" content="matiÃ¨re, ondes stationnaires, Michelson, Lorentz, RelativitÃ©, gravitÃ©, Ã©lectron, quark, gluon, atome, lumiÃ¨re, champ magnÃ©tique">
 <TITLE>Error</TITLE>
 
 </HEAD>
